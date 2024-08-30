@@ -1,4 +1,4 @@
-## Hi, I´m Jorgge 👋
+### Hi, I´m Jorgge 👋
 
 ## about me in code
 ```js
